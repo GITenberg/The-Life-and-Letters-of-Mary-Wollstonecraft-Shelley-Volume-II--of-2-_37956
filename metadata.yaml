@@ -1,0 +1,31 @@
+_repo: The-Life-and-Letters-of-Mary-Wollstonecraft-Shelley-Volume-II--of-2-_37956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Julian, Mrs.
+    aliases:
+    - Marshall, Florence A. Thomas
+    - Marshall, Mrs. Julian
+    birthdate: 1843
+    deathdate: 1922
+    gutenberg_agent_id: '39142'
+    url: http://www.gutenberg.org/2009/agents/39142
+description: ''
+gutenberg_issued: '2011-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women and literature -- England -- History -- 19th century'
+- !lcsh 'Shelley, Mary Wollstonecraft, 1797-1851'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+title: The Life and Letters of Mary Wollstonecraft Shelley, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/37956
